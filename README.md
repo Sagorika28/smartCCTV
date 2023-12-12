@@ -1,13 +1,7 @@
 # smart-cctv-tkinter
-This is a tkinter gui app for smart camera.
+This is a tkinter GUI app for smart camera.
+You just need to run main.py file inorder to run the app 
 
-
-you just need to run main.py file inorder to run full app 
-
-you would need :
+you would need to install the following to run these scripts properly :
 opencv
 tkinter
-
-installed to run these scripts properly
-
-thanks ;) 
